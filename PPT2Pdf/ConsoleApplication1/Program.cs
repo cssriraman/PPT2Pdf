@@ -12,7 +12,6 @@ namespace ConsoleApplication1
             var files = new List<string>()
                             {
                                 Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "07.ppt"),
-                                Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "08.ppt"),
                                 Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "09.pptx")
                             };
 
