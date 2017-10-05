@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PptToPdfConverter", "PptToPdfConverter\PptToPdfConverter.csproj", "{A6CC551C-908F-4BAA-96AA-16DD59825553}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApplication1", "ConsoleApplication1\ConsoleApplication1.csproj", "{F30F5EE6-204B-4C03-978A-BDA48AB3DA12}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A6CC551C-908F-4BAA-96AA-16DD59825553}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6CC551C-908F-4BAA-96AA-16DD59825553}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6CC551C-908F-4BAA-96AA-16DD59825553}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6CC551C-908F-4BAA-96AA-16DD59825553}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F30F5EE6-204B-4C03-978A-BDA48AB3DA12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F30F5EE6-204B-4C03-978A-BDA48AB3DA12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F30F5EE6-204B-4C03-978A-BDA48AB3DA12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F30F5EE6-204B-4C03-978A-BDA48AB3DA12}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
